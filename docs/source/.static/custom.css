@@ -3,6 +3,11 @@
     white-space: pre-wrap !important;
 }
 
+/* Adding font size */
+.wy-table-responsive td p{
+    font-size: inherit !important;
+}
+
 /* Testing on Div element */
 .wy-table-responsive td div {
     line-height: 10pt;
