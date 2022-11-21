@@ -8,6 +8,6 @@
     font-size: inherit !important;
 }
 
-.wy-table-responsive table div.line-block {
+table.docutils div.line-block {
     margin-bottom: 0;
 }
