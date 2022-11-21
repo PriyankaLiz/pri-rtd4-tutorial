@@ -1,6 +1,6 @@
 /* Added code to display tables without horizontal scrollbars */
-.wy-table-responsive table td, .wy-table-responsive table th {
-    white-space: normal !important;
+table.docutils td, table.docutils th {
+    white-space: pre-wrap !important;
 }
 
 /* Adding font size */
@@ -8,6 +8,6 @@
     font-size: inherit !important;
 }
 
-.rst-content table.docutils div.line-block {
+table.docutils div.line-block {
     margin-bottom: 0;
 }
