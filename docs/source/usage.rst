@@ -72,8 +72,7 @@ parsley You can add it if required for a more flavoursome experience.
 
         |
 
-        You can add it if required for a more flavoursome experience. You can
-        add it if required for a more flavoursome experience.
+        You can add it if required for a more flavoursome experience. You can add it if required for a more flavoursome experience.
     * - thyme You can add it if required for a more flavoursome experience.
 
         |
@@ -88,8 +87,7 @@ parsley You can add it if required for a more flavoursome experience.
 
         |
 
-        You can add it if required for a more flavoursome experience. You can
-        add it if required for a more flavoursome experience.
+        You can add it if required for a more flavoursome experience. You can add it if required for a more flavoursome experience.
 
 .. list-table:: Ingredients to be used
     :header-rows: 1
