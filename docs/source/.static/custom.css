@@ -1,6 +1,6 @@
 /* Added code to display tables without horizontal scrollbars */
 .wy-table-responsive table td, .wy-table-responsive table th {
-    white-space: pre-wrap !important;
+    white-space: normal !important;
 }
 
 /* Adding font size */
@@ -8,11 +8,7 @@
     font-size: inherit !important;
 }
 
-/* Testing on Div element */
-.wy-table-responsive td div {
-    line-height: 10pt;
-}
-
 .wy-table-responsive table div.line-block {
+    line-height: 10pt;
     margin-bottom: 0;
 }
