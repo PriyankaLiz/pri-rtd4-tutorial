@@ -8,6 +8,6 @@
     font-size: inherit !important;
 }
 
-table.docutils div.line-block {
+.rst-content table.docutils div.line-block {
     margin-bottom: 0;
 }
