@@ -58,12 +58,37 @@ parsley You can add it if required for a more flavoursome experience.
     * - Ingredient
       - Veg or Non-Veg
       - Mandatory or not
-    * - parsley You can add it if required for a more flavoursome experience.
-      - veg. You can add it if required for a more flavoursome experience.
-      - Not mandatory. You can add it if required for a more flavoursome experience. You can add it if required for a more flavoursome experience.
-    * - thyme You can add it if required for a more flavoursome experience. You can add it if required for a more flavoursome experience.
+    * - parsley
+
+        |
+
+        You can add it if required for a more flavoursome experience.
       - veg
-      - Yes You can add it if required for a more flavoursome experience. You can add it if required for a more flavoursome experience. You can add it if required for a more flavoursome experience. You can add it if required for a more flavoursome experience.
+
+        |
+
+        You can add it if required for a more flavoursome experience.
+      - Not mandatory.
+
+        |
+
+        You can add it if required for a more flavoursome experience. You can
+        add it if required for a more flavoursome experience.
+    * - thyme You can add it if required for a more flavoursome experience.
+
+        |
+
+        You can add it if required for a more flavoursome experience.
+      - veg
+      - Yes You can add it if required for a more flavoursome experience.
+
+        |
+
+        You can add it if required for a more flavoursome experience.
+        |
+
+        You can add it if required for a more flavoursome experience. You can
+        add it if required for a more flavoursome experience.
 
 .. list-table:: Ingredients to be used
     :header-rows: 1
