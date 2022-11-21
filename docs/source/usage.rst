@@ -58,14 +58,11 @@ parsley You can add it if required for a more flavoursome experience.
     * - Ingredient
       - Veg or Non-Veg
       - Mandatory or not
-    * - parsley
-        :raw-html:`<br />`
+    * - parsley :raw-html:`<br />`
         You can add it if required for a more flavoursome experience.
-      - veg
-        :raw-html:`<br />`
+      - veg :raw-html:`<br />`
         You can add it if required for a more flavoursome experience.
-      - Not mandatory.
-        :raw-html:`<br />`
+      - Not mandatory. :raw-html:`<br />`
         You can add it if required for a more flavoursome experience. You
         can add it if required for a more flavoursome experience.
     * - thyme You can add it if required for a more flavoursome experience.
