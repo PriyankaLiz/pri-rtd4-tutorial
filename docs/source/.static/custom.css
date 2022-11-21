@@ -12,3 +12,7 @@
 .wy-table-responsive td div {
     line-height: 10pt;
 }
+
+.wy-table-responsive table div.line-block {
+    margin-bottom: 0;
+}
