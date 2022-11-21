@@ -9,5 +9,6 @@ table.docutils td, table.docutils th {
 }
 
 .rst-content table.docutils div.line-block {
+    line-height: 10pt;
     margin-bottom: 0;
 }
