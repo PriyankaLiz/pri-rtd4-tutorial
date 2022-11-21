@@ -1,7 +1,6 @@
 /* Added code to display tables without horizontal scrollbars */
 table.docutils td, table.docutils th {
     white-space: normal !important;
-    line-height: 10pt;
 }
 
 /* Adding font size */
@@ -10,5 +9,5 @@ table.docutils td, table.docutils th {
 }
 
 .rst-content table.docutils div.line-block {
-    margin-bottom: 0;
+    margin-bottom: 10pt;
 }
