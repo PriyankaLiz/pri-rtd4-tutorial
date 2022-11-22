@@ -8,6 +8,7 @@ table.docutils td, table.docutils th {
     font-size: inherit !important;
 }
 
-.rst-content table.docutils div.line-block {
-    margin-bottom: 10pt;
+.wy-table-responsive table div.line-block {
+    margin-top: 0pt;
+    margin-bottom: 0pt;
 }
