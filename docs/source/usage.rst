@@ -55,7 +55,7 @@ parsley You can add it if required for a more flavoursome experience.
     :header-rows: 1
     :align: center
 
-    * - Ingredient
+    * - Ingredient New TRIAL
       - Veg or Non-Veg
       - Mandatory or not
     * - parsley :raw-html:`<br />`
@@ -67,17 +67,11 @@ parsley You can add it if required for a more flavoursome experience.
         can add it if required for a more flavoursome experience.
     * - thyme You can add it if required for a more flavoursome experience.
 
-        |
-
         You can add it if required for a more flavoursome experience.
       - veg
       - Yes You can add it if required for a more flavoursome experience.
 
-        |
-
         You can add it if required for a more flavoursome experience.
-
-        |
 
         You can add it if required for a more flavoursome experience. You can add it if required for a more flavoursome experience.
 
