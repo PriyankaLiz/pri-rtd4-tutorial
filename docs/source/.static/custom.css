@@ -1,14 +1,45 @@
-/* Added code to display tables without horizontal scrollbars */
+/* This code worked for line-blocks perfectly */
+
+/* Added code to display tables without horizontal scrollbars
 table.docutils td, table.docutils th {
     white-space: normal !important;
 }
 
-/* Adding font size */
-.wy-table-responsive td p{
+/* Adding font size
+.wy-table-responsive table td p{
     font-size: inherit !important;
 }
 
 .wy-table-responsive table div.line-block {
     margin-top: 0pt;
     margin-bottom: 0pt;
+} */
+
+.wy-table-responsive table td, .wy-table-responsive table th {
+    white-space: pre-wrap;
+    line-height: 10pt;
+}
+
+/*Added code to correct the font size of bullets in a table */
+.wy-table-responsive table td p{
+    font-size: 11pt;
+}
+
+/*Added code to remove the line spacing between bullets in a list */
+.wy-table-responsive table td ul{
+    line-height: 0pt;
+    margin-bottom: 0pt;
+}
+
+/* Added code to remove the extra white line displayed at the bottom of the code-block */
+.wy-table-responsive table td div{
+    line-height: 0pt;
+    margin-bottom: 0pt;
+}
+
+.wy-table-responsive table td div.p{
+    margin-bottom: 0pt;
+    margin-top: 0pt;
+    padding-bottom: 0pt;
+    padding-top: 0pt;
 }
