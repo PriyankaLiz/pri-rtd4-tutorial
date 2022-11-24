@@ -33,7 +33,7 @@ table.docutils td, table.docutils th {
 }
 
 /* Added code to remove the extra white line displayed at the bottom of the code-block */
-.wy-table-responsive table td div{
+.wy-table-responsive table td blockquote{
     line-height: 0pt;
     margin-bottom: 0pt;
 }
