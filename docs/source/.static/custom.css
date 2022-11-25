@@ -18,11 +18,12 @@ table.docutils td, table.docutils th {
 .wy-table-responsive table td, .wy-table-responsive table th {
     white-space: pre-wrap;
     line-height: 10pt;
-    border-spacing: 0px;
+    margin-bottom: 5pt !important;
 }
 
 /*Added code to correct the font size of bullets in a table */
 .wy-table-responsive table td p{
+    padding-top: 5pt;
     font-size: 11pt;
 }
 
