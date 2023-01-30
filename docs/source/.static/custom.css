@@ -40,6 +40,11 @@ table.docutils td, table.docutils th {
     margin-bottom: 0pt;
 }
 
+/* To increase display width on screen */
+.wy-nav-content {
+    max-width: 100% !important;
+}
+
 /* .wy-table-responsive table td div.p{
     margin-bottom: 0pt;
     padding-bottom: 0pt;
